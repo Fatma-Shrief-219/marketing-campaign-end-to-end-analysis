@@ -44,7 +44,4 @@ Marketing teams have limited budgets and can't target everyone. Which customers 
 - `Dataset_Description (1).pdf`: dataset description and business problem
 
 ## 📦 Dataset
-[Customer Personality Analysis](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign) by Rodrigo Saldanha (Kaggle).
-
-## 👩‍💻 Author
-**Fatma Shrief** | [GitHub](https://github.com/Fatma-Shrief-219) | 
+[Customer Personality Analysis](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign) by Rodrigo Saldanha (Kaggle). 
